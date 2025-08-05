@@ -13,18 +13,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielGBLdev/GabrielGBLdev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielGBLdev/GabrielGBLdev/output/snake.svg" alt="Snake animation" />
 
 
